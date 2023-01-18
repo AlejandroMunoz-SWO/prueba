@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ext.alejandro.munoz\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj": {}
+    "C:\\Users\\ext.alejandro.munoz\\OneDrive - SoftwareONE\\Escritorio\\ejercicio1\\back\\ejemplo\\ejemplo\\ejemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ext.alejandro.munoz\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj": {
+    "C:\\Users\\ext.alejandro.munoz\\OneDrive - SoftwareONE\\Escritorio\\ejercicio1\\back\\ejemplo\\ejemplo\\ejemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ext.alejandro.munoz\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "projectUniqueName": "C:\\Users\\ext.alejandro.munoz\\OneDrive - SoftwareONE\\Escritorio\\ejercicio1\\back\\ejemplo\\ejemplo\\ejemplo.csproj",
         "projectName": "ejemplo",
-        "projectPath": "C:\\Users\\ext.alejandro.munoz\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "projectPath": "C:\\Users\\ext.alejandro.munoz\\OneDrive - SoftwareONE\\Escritorio\\ejercicio1\\back\\ejemplo\\ejemplo\\ejemplo.csproj",
         "packagesPath": "C:\\Users\\ext.alejandro.munoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ext.alejandro.munoz\\source\\repos\\ejemplo\\ejemplo\\obj\\",
+        "outputPath": "C:\\Users\\ext.alejandro.munoz\\OneDrive - SoftwareONE\\Escritorio\\ejercicio1\\back\\ejemplo\\ejemplo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ext.alejandro.munoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
